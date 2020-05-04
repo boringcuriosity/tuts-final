@@ -1,0 +1,16 @@
+Uri: https://tabipsum.com/
+File Name: c:\Downloaded Web Sites\tabipsum.com\index.htm
+Content Type: text/html
+
+Uri: https://tabipsum.com/manifest.json
+File Name: c:\Downloaded Web Sites\tabipsum.com\manifest.json
+Content Type: application/json
+
+Uri: https://tabipsum.com/favicon.ico
+File Name: c:\Downloaded Web Sites\tabipsum.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://tabipsum.com/static/js/main.21e2e670.js
+File Name: c:\Downloaded Web Sites\tabipsum.com\static\js\main.21e2e670.js
+Content Type: application/javascript
+
